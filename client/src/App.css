@@ -1,0 +1,82 @@
+body{
+  background-color: rgb(206, 198, 198) !important;
+}
+/* Navbar Design */
+.color{
+  color: white;
+}
+.folio{
+  color:#BF252B
+}
+.nav{
+  margin-left: auto;
+}
+.font-weight-bolder{
+  font-weight: bolder;
+  color: white;
+}
+.font-weight-bolder:hover{
+  color: #BF252B
+}
+
+
+/* Sign up page design */
+.signup-form{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height:auto;
+  /* border: 2px red solid; */
+}
+.signup-content{
+  margin-top: 50px;
+  margin-bottom: 20px;
+    height: auto;
+    width: 70%;
+    border: white 2px solid;
+    box-shadow: 2px 2px 2px  #fff;
+}
+.another{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.for-btn{
+  display: flex;
+  justify-content: center;
+}
+
+
+/* login form */
+.login-form{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height:auto;
+  /* border: 2px red solid; */
+}
+.login-content{
+    margin-top: 80px;
+    margin-bottom: 20px;
+    height: auto;
+    width: 70%;
+    border: white 2px solid;
+    box-shadow: 2px 2px 2px  #fff;
+}
+
+/* table styling */
+.table-bord{
+  margin-top: 50px;
+  margin-bottom: 20px;
+  width: 100%;
+  height: auto;
+  border: white 2px solid;
+  box-shadow: 2px 2px 2px 2px black;
+}
+
+
